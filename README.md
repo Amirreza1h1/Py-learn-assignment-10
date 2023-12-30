@@ -3,7 +3,7 @@
 ## Python
 
 ### Session 10
-<p>ُStart knowing about classes and capsulation.</p>
+<p>Start knowing about classes and capsulation.</p>
 ```
 class Time:
   def __init__(self):
